@@ -1,4 +1,4 @@
-# STxxxx <Topicos Especiales en Telematica>
+# Topicos Especiales en Telematica
 ## Estudiantes:
 - **Nombre(s):** Juan Jose Villada Calle
                 </br>David Elias Franco Velez
