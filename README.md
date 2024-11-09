@@ -1,13 +1,10 @@
 # Topicos Especiales en Telematica
 ## Estudiantes:
-- **Nombre(s):** Juan Jose Villada Calle
-                </br>David Elias Franco Velez
-                </br>Daniel Velez Duque
+- **Nombre(s):**David Elias Franco Velez
                 </br>Humberto Antonio Carbonó
-- **Email(s):** jjvilladac@eafit.edu.co
-                </br>defrancov@eafit.edu.co
-                </br>dvelezd2@eafit.edu.co
-                </br>hacarbonop@eafit.edu.co
+- **Email(s):**
+               defrancov@eafit.edu.co
+              </br>hacarbonop@eafit.edu.co
 ## Profesor:
 - **Nombre:** Alvaro Enrique Ospina
 - **Email:** aeospinas@eafit.edu.co
@@ -91,3 +88,6 @@ El diseño de la aplicación sigue una arquitectura de alta disponibilidad en Ku
 Esta implementación usa una configuración de alta disponibilidad en AWS EKS, pero no se incluyó HTTPS ni un dominio personalizado. Estos aspectos podrían completarse con acceso a un dominio y configuraciones adicionales en cert-manager.
 
 ---
+
+### 6. Video Evidencias
+https://youtu.be/0m_M48CTfz8
