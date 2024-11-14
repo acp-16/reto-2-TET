@@ -90,4 +90,4 @@ Esta implementación usa una configuración de alta disponibilidad en AWS EKS, p
 ---
 
 ### 6. Video Evidencias
-https://youtu.be/0m_M48CTfz8
+https://drive.google.com/file/d/1lwROslL6rrVGQ-tI2SyHyX_8_Nl6yARv/view?usp=sharing
